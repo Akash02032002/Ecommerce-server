@@ -1,2 +1,2 @@
-﻿# Ecommerce-client
+﻿# Ecommerce-Server
 
